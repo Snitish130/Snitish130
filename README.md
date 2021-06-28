@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snitish130
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning django
+- 👀 I’m interested in python , django 
+- 🌱 I’m currently learning Django Rest framework
 - 💞️ I’m looking to collaborate on django project
 - 📫 How to reach me snitish@gmail.com
 
